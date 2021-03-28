@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on [CarRentalBackend](https://github.com/MetehanOzalp/CarRentalBackend) and [CarRentalFrontend](https://github.com/MetehanOzalp/CarRentalFrontend)
 
-- 🌱 I’m currently learning **C#**,**Java**,**Angular**
 
 - 👨‍💻 All of my projects are available at [all repository.](https://github.com/MetehanOzalp?tab=repositories)
 
