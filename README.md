@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [all repository.](https://github.com/MetehanOzalp?tab=repositories)
 
-- 📫 How to reach me **metehanozalp@hotmail.com**
+- 📫 You can reach me here **metehanozalp@hotmail.com**
 - :link: My LinkedIn account [LinkedIn](https://www.linkedin.com/in/metehan-%C3%B6zalp-21b8141b4/)
 
 ## 🛠 Technologies & Tools 
