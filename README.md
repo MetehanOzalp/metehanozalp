@@ -23,7 +23,7 @@
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 
-<a href="https://github.com/MetehanOzalp"><img src="https://github-readme-stats.vercel.app/api?username=MetehanOzalp&show_icons=true&hide=contribs,prs" alt="metehanozalp" /></a>
-<a href="https://github.com/MetehanOzalp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetehanOzalp&langs_count=8" alt="metehanozalp" /></a>
+<a href="https://github.com/MetehanOzalp"><img src="https://github-readme-stats.vercel.app/api?username=MetehanOzalp&show_icons=true" alt="metehanozalp" /></a>
+<a href="https://github.com/MetehanOzalp"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetehanOzalp&layout=compact" alt="metehanozalp" /></a>
 
 <p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=MetehanOzalp.MetehanOzalp" alt="metehanozalp" /> </p>
