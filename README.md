@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [CarRentalBackend](https://github.com/MetehanOzalp/CarRentalBackend) and [CarRentalFrontend](https://github.com/MetehanOzalp/CarRentalFrontend)
+- 🔭 I’m currently working on [HumanResourcesManagementSystem](https://github.com/MetehanOzalp/HumanResourcesManagementSystem)
 
 
 - 👨‍💻 All of my projects are available at [all repository.](https://github.com/MetehanOzalp?tab=repositories)
