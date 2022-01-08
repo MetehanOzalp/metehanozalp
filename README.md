@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **[HumanResourcesManagementSystem](https://github.com/MetehanOzalp/HumanResourcesManagementSystem)**
+- 🔭 I’m currently working on **[FreelancerMarket-Backend](https://github.com/MetehanOzalp/FreelancerMarket-Backend)** and **[FreelancerMarket-Frontend](https://github.com/MetehanOzalp/FreelancerMarket-Frontend)**
 
 - 👨‍💻 All of my projects are available at **[all repository.](https://github.com/MetehanOzalp?tab=repositories)**
 
