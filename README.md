@@ -1,5 +1,5 @@
 <h1 align="center"><i>Hi 👋, I'm Metehan Ozalp</i></h1>
-<h3 align="center"><i>I'm Computer Engineering Student at Gaziosmanpasa University</i></h3>
+<h3 align="center"><i>I'm Computer Engineer</i></h3>
 
 
 
